@@ -1,0 +1,19 @@
+.plants ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  list-style: none;
+  padding: 0;
+  gap: 1rem;
+}
+
+.plant {
+  border: 1px solid green;
+  padding: 1rem;
+  text-align: center;
+}
+
+.plant figure {
+  margin: 0;
+  font-size: 4rem;
+  text-align: center;
+}
