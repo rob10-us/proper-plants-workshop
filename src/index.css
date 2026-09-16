@@ -1,0 +1,11 @@
+main {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+h1 {
+  margin-left: 2rem;
+}
